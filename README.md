@@ -1,4 +1,4 @@
-# CloudAnchorExample-Swift
+# Cloud Anchor Example in Swift
 
 Google provides a [demo app](https://github.com/google-ar/arcore-ios-sdk) for its new ARCore Cloud Anchor capabilites. Unfortunately it is only written in Objective-C.
 
